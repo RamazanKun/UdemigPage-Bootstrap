@@ -7,4 +7,4 @@
 
 <h2>Screenshot / Ekran Görüntüsü:</h2>
 
- ![](ramazank%C3%BCn.proje2gif.gif)
+ ![](udemig.gif)
